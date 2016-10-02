@@ -147,15 +147,15 @@ header {
 }
 .certifications_container {
   position: relative;
-  height: 75%;
+  height: 30%;
   width: 100%;
   background-color: white;
   min-width: 316px;
-  min-height: 500px;
+  min-height: 300px;
 }
 .certifications {
   position: absolute;
-  top:40%;
+  top:25%;
   height:50%;
   width:100%;
   padding: 0 50px;
